@@ -7,7 +7,7 @@ Edit the *'script.js'* file to customize the message and *'send_mail.php'* file 
 
 ## 
 
-This project is based on [in-all-the-stars](https://github.com/KalDrongo/in-all-the-stars), created by [KalDrongo](https://github.com/KalDrongo). 
+ created by [Garvit](https://github.com/HybridDemonop). 
 
 *Features added:*
 
